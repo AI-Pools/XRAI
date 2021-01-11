@@ -1,5 +1,27 @@
 # AI Pool 2021 - Deep Learning - XRAI
+```
+     
+                                           ..,,;;;;;;,,,,
+                                     .,;'';;,..,;;;,,,,,.''';;,..
+                                  ,,''                    '';;;;,;''
+                                 ;'    ,;@@;'  ,@@;, @@, ';;;@@;,;';.
+                                ''  ,;@@@@@'  ;@@@@; ''    ;;@@@@@;;;;
+                                   ;;@@@@@;    '''     .,,;;;@@@@@@@;;;
+                                  ;;@@@@@@;           , ';;;@@@@@@@@;;;.
+                                   '';@@@@@,.  ,   .   ',;;;@@@@@@;;;;;;
+                                      .   '';;;;;;;;;,;;;;@@@@@;;' ,.:;'
+                                        ''..,,     ''''    '  .,;'
+                                             ''''''::''''''''
+                                                                 ,;
+                                {Module XRAI}                   .;;
+                                                               ,;;;
+                                --Far From Earth--           ,;;;;:
+                                                          ,;@@   .;
+                                                         ;;@@'  ,;
+                                                         ';;, ,;'        [17/03/2020]
+```
 
+---
 Cette journée va être chargé ingenieur.<br>
 À force de vivre sous terre, de noumbreux civils rencontrent des problemes respiratoires.<br>
 Il s'avere que pour certains patients, c'est un cas de pneumoni, c'est une maladie grave et nos medecin n'ont pas le temps d'analyser les resultats de chaques patients.<br>
