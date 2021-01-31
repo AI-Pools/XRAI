@@ -1,6 +1,6 @@
 # AI Pool 2021 - Deep Learning - XRAI
 ```
-     
+
                                            ..,,;;;;;;,,,,
                                      .,;'';;,..,;;;,,,,,.''';;,..
                                   ,,''                    '';;;;,;''
@@ -37,16 +37,16 @@ Pour maximiser l'efficacité de votre modèle, l'équipe scientifique vous invit
 N'ayez crainte, ils vous ont fourni un manuel sur les réseaux de neurones par convolution.
 
 ## Manuel Convolutional Neural Network
- 
+
  L'objectif des convolutions est d'apprendre à détecter des motifs spécifiques dans une image.
  Par exemple détecter les yeux sur des portraits, ou encore le museau d'un chien, etc.
- 
+
  Pour cela on applique un filtre à l'image donnée en entrée, ce filtre est notre convolution.
  Voyez le filtre comme une simple matrice ou l'on choisit le nombre de lignes et colonnes.
  L'utilisateur est libre de choisir le nombre de filtres par convolution.
- 
+
  Prenons en exemple un filtre de taille 3\*3 :
- 
+
  Quand le Layer de convolution recevra une image en entrée, il appliquera son filtre à chaque ensemble de 3\*3 pixels.
  Pour chaque ensemble de 3\*3 pixels le résultat sera le produit scalaire du filtre et de l'ensemble de pixels.
  <img src="./.img/convExplained.png"/>
@@ -55,7 +55,7 @@ N'ayez crainte, ils vous ont fourni un manuel sur les réseaux de neurones par c
 
 
 Et le pooling dans tout ça ?
- 
+
 L'opération de pooling s'effectue typiquement après chaque Layer convolutif.
 Il permet de réduire le coût de calcul et d'éviter l'overfiting en réduisant les dimensions des données d'entrée.
 
